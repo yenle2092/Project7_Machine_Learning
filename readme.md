@@ -1,4 +1,4 @@
-# Project 4: ML
+# Project 4: Machine Learning
 
 ### Introduction
 
@@ -11,12 +11,12 @@ Please perform EDA and data cleaning.
 Please conduct EDA and descriptive analytics
 
 As soon as your dataset is ready, please start the research about your models. Please note, that each group member should research at least 1 model.
-BaggingClassifier
-MultinomialNB
-Stacking
-RidgeClassifier
+1. BaggingClassifier
+2. MultinomialNB
+3. Stacking
+4. RidgeClassifier
 
-Feature selection (if needed)
+Feature selection (21 feature selected)
 
 Implement your models on your data
 
@@ -24,9 +24,9 @@ Do not forget about Hyperparameters tuning
 
 Compare the results using metrics:
 
-accuracy
-recall
-precision
-ROC_AUC score
-plot ROC_AUC curve
+- accuracy
+- recall
+- precision
+- ROC_AUC score
+- plot ROC_AUC curve
 
